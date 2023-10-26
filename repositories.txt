@@ -1,5 +1,3 @@
-https://github.com/makerlabvn/Makerlabvn_SimpleMotor
-https://github.com/Khuuxuanngoc/DHT-sensor-library
 https://github.com/satspares/DWIN_DGUS_HMI
 https://github.com/CIRCUITSTATE/CSE_ModbusRTU
 https://github.com/segertonGH/Creative-Robotix-Educational-Platform-Arduino
@@ -1416,7 +1414,6 @@ https://github.com/Picovoice/picovoice-arduino-ar
 https://github.com/Picovoice/picovoice-arduino-de
 https://github.com/Picovoice/picovoice-arduino-en
 https://github.com/Picovoice/picovoice-arduino-es
-https://github.com/Picovoice/picovoice-arduino-fa
 https://github.com/Picovoice/picovoice-arduino-fr
 https://github.com/Picovoice/picovoice-arduino-hi
 https://github.com/Picovoice/picovoice-arduino-it
@@ -1433,7 +1430,6 @@ https://github.com/Picovoice/porcupine-arduino-ar
 https://github.com/Picovoice/porcupine-arduino-de
 https://github.com/Picovoice/porcupine-arduino-en
 https://github.com/Picovoice/porcupine-arduino-es
-https://github.com/Picovoice/porcupine-arduino-fa
 https://github.com/Picovoice/porcupine-arduino-fr
 https://github.com/Picovoice/porcupine-arduino-hi
 https://github.com/Picovoice/porcupine-arduino-it
@@ -2291,6 +2287,7 @@ https://github.com/Wolodia-M/timersapi-library
 https://github.com/WonderCRM/CRMui3
 https://github.com/WorldFamousElectronics/PulseSensorPlayground
 https://github.com/XasWorks/Circios-Library
+https://github.com/XbergCode/DateTimeFunctions
 https://github.com/XbergCode/MillisCounter
 https://github.com/XbergCode/DigitSeparator
 https://github.com/XbergCode/Uptime
@@ -2448,7 +2445,6 @@ https://github.com/adafruit/Adafruit_HX8357_Library
 https://github.com/adafruit/Adafruit_ICM20X
 https://github.com/adafruit/Adafruit_ILI9341
 https://github.com/adafruit/Adafruit_INA219
-https://github.com/adafruit/Adafruit_INA228
 https://github.com/adafruit/Adafruit_INA260
 https://github.com/adafruit/Adafruit_IO_Arduino
 https://github.com/adafruit/Adafruit_IS31FL3731
@@ -6326,7 +6322,7 @@ https://github.com/stm32duino/X-NUCLEO-IKS4A1
 https://github.com/AITINKR/AITINKR_AIOT_DEVBOARD
 https://github.com/m5stack/M5-LoRa-E220-JP
 https://github.com/bin2ai/zeeprom/
-https://github.com/Tenveis/SimpleControl
+https://github.com/Tenveis/SimpleMotorControl
 https://github.com/Finndersen/LEDuino
 https://github.com/ichirowo/FLINT_E220_900T22S_JP_Library
 https://github.com/PTSolns/PTSolns_I2CBackpack
@@ -6335,8 +6331,3 @@ https://github.com/zimbora/esp32-BLE112
 https://github.com/zimbora/esp32-modem-freeRTOS
 https://github.com/zimbora/esp32-ModbusRTU
 https://github.com/joshua-8/TMC5072
-https://github.com/sivaadchu/SmartCard
-https://github.com/zimbora/esp32-sysfile
-https://github.com/zimbora/esp32-alarm
-https://github.com/zimbora/esp32-autorequest
-https://github.com/PTSolns/PTSolns_microWatt
